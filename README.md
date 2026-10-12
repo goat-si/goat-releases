@@ -25,7 +25,7 @@ Every release includes a `SHA256SUMS` file. Verify downloads against it.
 
 ## License
 
-The license terms for GOAT binaries will be published in this repository before the first release.
+GOAT binaries are proprietary and provided for your own use; see [LICENSE.md](LICENSE.md) for the terms.
 
 GOAT includes software derived from [T3 Code](https://github.com/pingdotgg/t3code), which is distributed under the MIT License. Its copyright and permission notice is reproduced in [NOTICE.md](NOTICE.md).
 
