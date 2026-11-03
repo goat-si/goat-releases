@@ -8152,11 +8152,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ```
 
-## Cua Driver 0.38.0-goat.18
+## Cua Driver 0.38.0-goat.19
 
 License: MIT AND MPL-2.0
 
-Source: https://github.com/goat-si/goat-cu/tree/cua-driver-rs-v0.38.0-goat.18
+Source: https://github.com/goat-si/goat-cu/tree/cua-driver-rs-v0.38.0-goat.19
 
 ```text
 MIT License
@@ -8403,7 +8403,7 @@ and licensed under the Mozilla Public License 2.0.
 The corresponding source is the pinned npm development dependency plus the
 deterministic transformations in `scripts/build-node-runtime.mjs`. The source
 and build script are available in GOAT's Cua Driver fork at
-<https://github.com/goat-si/goat-cu/tree/cua-driver-rs-v0.38.0-goat.18>.
+<https://github.com/goat-si/goat-cu/tree/cua-driver-rs-v0.38.0-goat.19>.
 
 <https://www.mozilla.org/MPL/2.0/>
 ```
