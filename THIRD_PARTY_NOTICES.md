@@ -2,7 +2,7 @@
 
 GOAT includes the software listed below. GOAT is based on T3 Code; its MIT notice is in LICENSE-T3CODE.txt.
 
-## @anthropic-ai/claude-agent-sdk 0.3.276
+## @anthropic-ai/claude-agent-sdk 0.3.284
 
 License: SEE LICENSE IN README.md
 
@@ -949,7 +949,7 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTI
 USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
 
-## @cursor/sdk 1.0.38
+## @cursor/sdk 1.2.0
 
 License: SEE LICENSE IN LICENSE.md
 
@@ -961,7 +961,7 @@ Source: https://cursor.com
 © Anysphere Inc. All rights reserved. Use is subject to Cursor's [Terms of Service](https://cursor.com/terms-of-service).
 ```
 
-## @cursor/sdk-linux-x64 1.0.38
+## @cursor/sdk-linux-x64 1.2.0
 
 License: SEE LICENSE IN LICENSE.md
 
@@ -9759,7 +9759,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## expo-device-hub 0.19.0-canary-20261023-1357114
+## expo-device-hub 0.19.1
 
 License: MIT AND Apache-2.0 AND BSD-3-Clause
 
