@@ -8918,11 +8918,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ```
 
-## Cua Driver 0.62.0-goat.1
+## Cua Driver 0.62.0-goat.2
 
 License: MIT AND MPL-2.0
 
-Source: https://github.com/goat-si/goat-cu/tree/cua-driver-rs-v0.62.0-goat.1
+Source: https://github.com/goat-si/goat-cu/tree/cua-driver-rs-v0.62.0-goat.2
 
 ```text
 MIT License
@@ -9169,7 +9169,7 @@ and licensed under the Mozilla Public License 2.0.
 The corresponding source is the pinned npm development dependency plus the
 deterministic transformations in `scripts/build-node-runtime.mjs`. The source
 and build script are available in GOAT's Cua Driver fork at
-<https://github.com/goat-si/goat-cu/tree/cua-driver-rs-v0.62.0-goat.1>.
+<https://github.com/goat-si/goat-cu/tree/cua-driver-rs-v0.62.0-goat.2>.
 
 <https://www.mozilla.org/MPL/2.0/>
 ```
@@ -11205,6 +11205,33 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
+
+## GitHub gemoji alias data
+
+License: MIT
+
+Source: https://github.com/github/gemoji/blob/fadaeaf1f1a9be82b321316a6c5502e43138b2f6/db/emoji.json
+
+```text
+MIT License
+
+Copyright (c) 2019 GitHub, Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
+associated documentation files (the "Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the
+following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial
+portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO
+EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
 
 ## github-slugger 2.0.0
